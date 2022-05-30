@@ -79,11 +79,20 @@ footer{
     padding: 1%;
     align-items: center;
 }
+h4{
+  text-align: center;
+  text-decoration: underline;
+}
 .navFoot{
     width: 100%;
     padding: 1%;
     vertical-align: top;
     align-items: center;  
+}
+.gmail img{
+  width: 50px;
+ 
+  
 }
 button {
   position: relative;
