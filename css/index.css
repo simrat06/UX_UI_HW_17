@@ -1,3 +1,6 @@
+html{
+  scroll-behavior: smooth;
+}
 li{
     display: inline-block;
     padding: 2%;
@@ -41,7 +44,7 @@ p{
 ul{
     width: 50%;
     text-align: center;
-    margin-left: auto;
+    margin: auto;
 }
 .heroImg{
     display: flex;
