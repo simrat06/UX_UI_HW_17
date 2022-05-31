@@ -4,15 +4,28 @@ html{
 li{
     display: inline-block;
     padding: 2%;
+   
+    
 }
 .logo{
-    width: 0 auto;
-    padding: 1%;
-    text-align: left;
+
+  width: 0 auto;
+  padding: 1%;
+  text-align: left;
+}
+.logoImg{
+height: 60px;
+width: 0 auto;
+float: left;
+text-align: center;
+
+
+
 }
 p{
-    display: inline-block;
-    vertical-align: top;
+  display: inline-block;
+  vertical-align: top;
+  padding: 1rem;
 }
 /* Add a black background color to the top navigation */
 .topnav {
